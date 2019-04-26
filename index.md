@@ -32,6 +32,6 @@ You can find my resume [here](./Resume.pdf).
 ## On a personal note
 
 
-I grew up in a [remote village](https://goo.gl/maps/EgKhvufCn252) in Southern India where I went to primary school. Since then, I've moved around quite a bit, both in and outside India, starting from Guntur (2006-08), 
+I grew up in a [small village](https://goo.gl/maps/EgKhvufCn252) in Southern India where I went to primary school. Since then, I've moved around quite a bit, both in and outside India, starting from Guntur (2006-08), 
 Hyderabad (2008-10), Kharagpur (Undergrad, 2010-14), Belgrade (Microsoft Serbia, 2014-16), Seattle (Microsoft Redmond, 2016-18) and San Diego (UC San Diego, 2018-present).
 I'm an avid reader and I like literary fiction - [García Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez) is my favorite. Sports-wise, I love (and play!) Tennis.
