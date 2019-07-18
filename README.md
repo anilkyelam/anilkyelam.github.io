@@ -6,5 +6,5 @@
 	- Use [Slate theme](https://github.com/pages-themes/slate) for reference.
 - Run below command to start local webserver. View the site at http://localhost:4000.
 	```
-	bundle exec jekyll serve` 
+	bundle exec jekyll serve
 	```

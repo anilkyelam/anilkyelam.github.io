@@ -1,15 +1,16 @@
 ## About
 
-<img src="dp2.jpg" alt="drawing" height="350" style="float:right;margin:0px 0px 0px 10px"/>
+<img src="dp3.png" alt="drawing" height="350" style="float:right;margin:10px 10px 10px 10px"/>
 
 I'm a first year Computer Science PhD student at [UC San Diego](https://ucsd.edu/), advised by Prof. [Alex Snoeren](http://cseweb.ucsd.edu/~snoeren/). 
-I'm also a member of [Systems and Networking](https://www.sysnet.ucsd.edu/sysnet/) group, where my current work focuses on understanding the effects of various network configurations on the power consumption in data centers.
-My research interests broadly lie in distributed systems and networking.
+I'm also a member of [Systems and Networking](https://www.sysnet.ucsd.edu/sysnet/) group, where my current research focus is on understanding the network performance of 
+data analytics platforms like Spark, and enabling isolation for hardware-offloaded applications on Smart NICs.
+My research interests broadly lie in distributed systems and (high performance) networking.
 
 
 ## Past
 I received my bachelors degree from [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) in 2014. I spent the next four years working at Microsoft as a Software Engineer in Azure SQL Database team, 
-developing services that support [SQL databases](https://azure.microsoft.com/en-us/services/sql-database/) and [SQL Server VMs](https://azure.microsoft.com/en-us/services/virtual-machines/sql-server/) on Microsoft Azure.
+building services that support [SQL databases](https://azure.microsoft.com/en-us/services/sql-database/) and [SQL Server VMs](https://azure.microsoft.com/en-us/services/virtual-machines/sql-server/) on Microsoft Azure.
 
 
 ## Publications
