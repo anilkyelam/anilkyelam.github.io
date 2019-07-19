@@ -1,6 +1,6 @@
 ## About
 
-<img src="dp3.png" alt="drawing" height="350" style="float:right;margin:10px 10px 10px 10px"/>
+<img src="dp3.png" alt="drawing" height="350" style="float:right;margin:0px 5px 5px 5px"/>
 
 I'm a first year Computer Science PhD student at [UC San Diego](https://ucsd.edu/), advised by Prof. [Alex Snoeren](http://cseweb.ucsd.edu/~snoeren/). 
 I'm also a member of [Systems and Networking](https://www.sysnet.ucsd.edu/sysnet/) group, where my current research focus is on understanding the network performance of 
