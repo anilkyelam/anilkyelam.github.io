@@ -3,7 +3,7 @@
 <img src="dp3.png" alt="drawing" height="350" style="float:right;margin:0px 5px 5px 5px"/>
 
 I'm a first year Computer Science PhD student at [UC San Diego](https://ucsd.edu/), advised by Prof. [Alex Snoeren](http://cseweb.ucsd.edu/~snoeren/). 
-I'm also a member of [Systems and Networking](https://www.sysnet.ucsd.edu/sysnet/) group, where I'm currently looking at hardware-offloaded applications on Smart NICs.
+I'm also a member of [Systems and Networking](https://www.sysnet.ucsd.edu/sysnet/) group, where my current work focuses on hardware-offloaded applications on Smart NICs.
 My research interests broadly lie in distributed systems and (high performance) networking.
 
 
