@@ -21,7 +21,7 @@ TBA
 
 
 ## CV
-You can find my resume [here](./Resume.pdf).
+Resume: [Short](./Resume_Short.pdf), Long.
 
 
 ## Contact
