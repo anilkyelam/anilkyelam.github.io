@@ -51,6 +51,7 @@ Resume:
 <a href="http://act.ucsd.edu/maps/?lat=32.88186000000002&lng=-117.23361000000001&t=roadmap&z=19&p=&r=100&v=3&wid=440&q=ebu3b&qr=100" target="_blank">CSE 3140</a>  
 **Other:**
 <a href="https://www.linkedin.com/in/anilkumaryelam/" target="_blank">LinkedIn</a>, 
+<a href="https://www.github.com/anilkyelam/" target="_blank">GitHub</a>, 
 <a href="https://www.goodreads.com/user/show/33495932-anil-kumar" target="_blank">Goodreads</a>
 
 
