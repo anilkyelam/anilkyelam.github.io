@@ -2,7 +2,7 @@
 
 <img src="dp3.png" alt="drawing" height="350" style="float:right;margin:0px 5px 5px 5px"/>
 
-I'm a third year Computer Science PhD student at 
+I'm a third year Computer Science Ph.D. student at 
 <a href="https://ucsd.edu/" target="_blank">UC San Diego</a> where I'm advised by 
 <a href="http://cseweb.ucsd.edu/~snoeren/" target="_blank">Alex Snoeren</a>. 
 I'm also a member of 
@@ -16,14 +16,22 @@ My current research focuses on accelerating (networking) applications using Smar
 ## Past
 I received my bachelors degree from 
 <a href="http://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology Kharagpur</a> in 2014. 
-I spent the next four years working at Microsoft as a Software Engineer in Azure SQL Database team, 
-building services that support 
+I spent the next four years working at Microsoft as a Software Engineer in Azure SQL Database team, building 
+*<a href="https://en.wikipedia.org/wiki/Service-oriented_programming" style="color:black" target="_blank">services</a>* that support 
 *<a href="https://azure.microsoft.com/en-us/services/sql-database/" style="color:black" target="_blank">SQL databases</a>* and 
 *<a href="https://azure.microsoft.com/en-us/services/virtual-machines/sql-server/" style="color:black" target="_blank">SQL Server VMs</a>*
  on Microsoft Azure.
 
 
 ## Publications
+**CoResident Evil: Covert Communication In The Cloud With Lambdas**  [ 
+    <a href="https://drive.google.com/file/d/1KXOCJANqL7p2QLynmVQ_5KusumrUdnHR/view?usp=sharing" target="_blank">paper</a> | 
+    talk |
+    <a href="https://github.com/anilkyelam/columbus" target="_blank">code</a>
+]    
+<ins>Anil Yelam</ins>, Shibani Subbareddy, Keerthana Ganesan, Stefan Savage and Ariana Mirian  
+*<a href="https://www2021.thewebconf.org/" style="color:black" target="_blank">The Web Conference '21</a>* (To appear)
+
 **SmartNIC Performance Isolation with FairNIC**  [ 
     <a href="https://drive.google.com/file/d/10zDm_APvfSGLj82uYTx5GUw0-uyAUdlD/view?usp=sharing" target="_blank">paper</a> | 
     <a href="https://drive.google.com/file/d/1V2SKr-x8UKUuxayEWbPdi4NpYc5FKlBt/view?usp=sharing" target="_blank">talk</a> |
@@ -33,13 +41,6 @@ Stewart Grant**\***, <ins>Anil Yelam</ins>**\***, Maxwell Bland and Alex C. Snoe
 *<a href="https://conferences.sigcomm.org/sigcomm/2020/" style="color:black" target="_blank">SIGCOMM '20</a>*  
 **(\* Co-first authors)**
 
-**CoResident Evil: Covert Communication In The Cloud With Lambdas**  [ 
-    <a href="https://drive.google.com/file/d/1KXOCJANqL7p2QLynmVQ_5KusumrUdnHR/view?usp=sharing" target="_blank">paper</a> | 
-    talk |
-    <a href="https://github.com/anilkyelam/columbus" target="_blank">code</a>
-]    
-<ins>Anil Yelam</ins>, Shibani Subbareddy, Keerthana Ganesan, Stefan Savage and Ariana Mirian  
-*<a href="https://www2021.thewebconf.org/" style="color:black" target="_blank">The Web Conference '21</a>* (To appear)
   
  
 
@@ -48,9 +49,9 @@ Stewart Grant**\***, <ins>Anil Yelam</ins>**\***, Maxwell Bland and Alex C. Snoe
 [//]: TBA
 
 
-## CV
-Resume: 
-<a href="./Resume_Short.pdf" target="_blank">Short</a>, Long.
+[//]: ## CV
+[//]: Resume: 
+[//]: <a href="./Resume_Short.pdf" target="_blank">Short</a>, Long.
 
 
 ## Contact
