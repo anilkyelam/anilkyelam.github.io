@@ -17,7 +17,7 @@ My current research focuses on accelerating (networking) applications using Smar
 I received my bachelors degree from 
 <a href="http://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology Kharagpur</a> in 2014. 
 I spent the next four years working at Microsoft as a Software Engineer in Azure SQL Database team, building 
-*<a href="https://en.wikipedia.org/wiki/Service-oriented_programming" style="color:black" target="_blank">services</a>* that support 
+<a href="https://en.wikipedia.org/wiki/Service-oriented_programming" style="color:black" target="_blank">services</a> that support 
 *<a href="https://azure.microsoft.com/en-us/services/sql-database/" style="color:black" target="_blank">SQL databases</a>* and 
 *<a href="https://azure.microsoft.com/en-us/services/virtual-machines/sql-server/" style="color:black" target="_blank">SQL Server VMs</a>*
  on Microsoft Azure.
@@ -26,7 +26,7 @@ I spent the next four years working at Microsoft as a Software Engineer in Azure
 ## Publications
 **CoResident Evil: Covert Communication In The Cloud With Lambdas**  [ 
     <a href="https://drive.google.com/file/d/1KXOCJANqL7p2QLynmVQ_5KusumrUdnHR/view?usp=sharing" target="_blank">paper</a> | 
-    talk |
+    <a href="https://drive.google.com/file/d/1hP2vM-KjzTjCu6qe9tnR7h4ZodCCQRpf/view?usp=sharing" target="_blank">talk</a> |
     <a href="https://github.com/anilkyelam/columbus" target="_blank">code</a>
 ]    
 <ins>Anil Yelam</ins>, Shibani Subbareddy, Keerthana Ganesan, Stefan Savage and Ariana Mirian  
@@ -34,7 +34,7 @@ I spent the next four years working at Microsoft as a Software Engineer in Azure
 
 **SmartNIC Performance Isolation with FairNIC**  [ 
     <a href="https://drive.google.com/file/d/10zDm_APvfSGLj82uYTx5GUw0-uyAUdlD/view?usp=sharing" target="_blank">paper</a> | 
-    <a href="https://drive.google.com/file/d/1V2SKr-x8UKUuxayEWbPdi4NpYc5FKlBt/view?usp=sharing" target="_blank">talk</a> |
+    <a href="https://drive.google.com/file/d/1gfC1MGJLCDMrei80arXscorBNhgf9SQJ/view?usp=sharing" target="_blank">talk</a> |
     code 
 ]    
 Stewart Grant**\***, <ins>Anil Yelam</ins>**\***, Maxwell Bland and Alex C. Snoeren  
